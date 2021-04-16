@@ -3,7 +3,7 @@ layout: default
 title: TestDesk
 nav_order: 1
 description: "Version de prueba de TestDesk: Software de aprendizaje de algoritmos estructurados"
-permalink: https://brandonrodriguezc.github.io/mydoctheme/
+permalink: /
 ---
 
 # TestDesk
