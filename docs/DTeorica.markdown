@@ -1,3 +1,19 @@
+---
+layout: default
+title: Documentación teórica del sistema
+nav_order: 99
+---
+
+# Documentación teórica del sistema
+{: .no_toc }
+
+## Tabla de contenidos
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 ## Sistema
 
 ### Entorno grafico
@@ -58,7 +74,7 @@ Posteriormente a la transcripción, se evalúa cada expresión únicamente respe
 
 Con el fin de optimizar estos procesos, se decidió almacenar cada una de las expresiones transcritas en notación polaca inversa debido a que esta transcripción sería utilizada nuevamente en el momento de la ejecución. En principio, los valores al ser evaluados desde la notación postfija poseen un inicial (cero, falso o texto vacío dependiendo del tipo de variable). Pero la evaluación en el momento de la ejecución, las variables si toman un sentido y valor respecto al entorno dinámico donde se desarrollan, más sin embargo la notación polaca inversa es la misma en el momento del análisis semántico.
 
-## Tabla de símbolos
+### Tabla de símbolos
 
 La tabla de símbolos, es una tabla encargada de almacenar cada uno de los identificadores que se encuentran en el código. Los símbolos para esta ocasión representan las variables o identificadores en el algoritmo. Es importante tener registro de estas para reconocer la variable, su tipo y valor en el momento de la evaluación de las expresiones. Para alfonseca, existen diferentes maneras de albergar este registro bien sea desde una lista doblemente anidada hasta un árbol binario, más sin embargo su estructura refiere a una parte importante del intérprete debido al método de búsqueda que incorpora para el uso de identificadores registrados. Es por ello que el método más eficiente y veloz para la búsqueda de estos es haciendo uso de una  HashTable, la cual es una estructura en forma de tabla cuyo índice de almacenamiento recae en una llave para acceder su valor. Esta llave proviene de una particularidad del dato que se esté llamando la cual debe ser única para los elemento almacenados, en este caso puede ser el nombre ya que en los lenguajes formales de programación no es posible declarar la misma variable en el mismo entorno 2 veces. Esta particularidad no siempre es identificable por lo cual debe tratar el dato por medio de una función o método hash, el cual permite generar la llave correspondiente. Para el presente desarrollo se incorporó una tabla símbolos la cual en la figura () se puede apreciar un ejemplo visual. Esta tabla cumple una función primordial tanto en el análisis léxico, en el cálculo de expresiones en notación polaca inversa y en el registro de la prueba de escritorio, ya que con ella se accede al valor de dicha variable y le hace posible asignar nuevos valores. 
 

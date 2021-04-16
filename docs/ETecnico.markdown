@@ -11,12 +11,6 @@ nav_order: 2
 Aqui se encuentra toda la documentación formal de la herramienta TestDesk.
 {: .fs-6 .fw-300 }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
 ## Entorno técnico
@@ -32,7 +26,7 @@ Aqui se encuentra toda la documentación formal de la herramienta TestDesk.
 Actualmente las pruebas más vitales para la ejecución son Condicional.td y tablas-de-multiplicar.td (revisar en [carpeta](https://github.com/BrandonRodriguezC/TestDesk/tree/main/Pruebas))
 
 ### Commit
-
+Lanzamiento de beta 1
 ### Cambios
 - Motor de estilos y correccion de espacios 
 

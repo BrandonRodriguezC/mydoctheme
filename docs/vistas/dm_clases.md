@@ -7,11 +7,6 @@ parent: Vistas y Modelos
 # Diagrama de Clases
 {: .no_toc }
 
-## Tabla de contenidos
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
