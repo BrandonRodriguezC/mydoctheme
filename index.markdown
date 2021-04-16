@@ -3,7 +3,7 @@ layout: default
 title: TestDesk
 nav_order: 1
 description: "Version de prueba de TestDesk: Software de aprendizaje de algoritmos estructurados"
-permalink: /
+permalink: https://brandonrodriguezc.github.io/mydoctheme/
 ---
 
 # TestDesk
@@ -12,7 +12,7 @@ permalink: /
 Aqui se encuentra toda la documentación formal de la herramienta TestDesk.
 {: .fs-6 .fw-300 }
 
-[Descargar herramienta](/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[Descargar herramienta](https://brandonrodriguezc.github.io/mydoctheme/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 [Ver repositorio](https://github.com/BrandonRodriguezC/TestDesk){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
