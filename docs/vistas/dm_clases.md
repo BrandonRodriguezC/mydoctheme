@@ -1,22 +1,19 @@
 ---
 layout: default
-title: Color
-parent: Utilities
+title: Diagrama de Clases
+parent: Vistas y Modelos
 ---
 
-# Color Utilities
+# Diagrama de Clases
 {: .no_toc }
 
-## Table of contents
+## Tabla de contenidos
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ---
-
-# Diagrama de Clases
-
 
 ## Descripción
 

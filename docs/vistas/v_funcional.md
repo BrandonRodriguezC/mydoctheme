@@ -4,18 +4,16 @@ title: Vista Funcional
 parent: Vistas y Modelos
 ---
 
-# Layout Utilities
+# Vista Funcional
 {: .no_toc }
 
-## Table of contents
+## Tabla de contenidos
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ---
-# Vista Funcional
-
 
 ## Descripción
 
