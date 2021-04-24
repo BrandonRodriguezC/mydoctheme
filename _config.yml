@@ -22,7 +22,7 @@ title: TestDesk
 email: brandon-rodriguez3@upc.edu.co
 description: >- # this means to ignore newlines until "baseurl:"
   Documentación formal de la herramienta TestDesk.
-baseurl: "/mydoctheme" # the subpath of your site, e.g. /blog
+baseurl: "/testdesk-documentacion" # the subpath of your site, e.g. /blog
 url: "http://brandonrodriguezc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
