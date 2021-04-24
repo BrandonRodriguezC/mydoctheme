@@ -12,7 +12,7 @@ permalink: /
 Aqui se encuentra toda la documentación formal de la herramienta TestDesk.
 {: .fs-6 .fw-300 }
 
-[Descargar herramienta](https://brandonrodriguezc.github.io/mydoctheme/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[Descargar herramienta](https://brandonrodriguezc.github.io/testdesk-documentacion/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 [Ver repositorio](https://github.com/BrandonRodriguezC/TestDesk){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
