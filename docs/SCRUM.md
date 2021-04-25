@@ -64,3 +64,8 @@ Después de cada reunión de sprint planning los martes, de manera interpersonal
 
 ## Sprint review
 Cada viernes durante el periodo estipulado se hizo una reunión de 10 minutos o menos, con lo cual se hizo una revisión de los adelantos y pendientes del sprint. Referente a esto se listaron posibles elementos que serían candidatos al siguiente sprint. 
+
+A manera de resumen, en la imagen a continuación se puede apreciar el [cronograma](https://github.com/BrandonRodriguezC/testdesk-documentacion/blob/main/docs/Cronograma.pdf) general del proyecto.
+
+
+![cronograma](https://github.com/BrandonRodriguezC/testdesk-documentacion/blob/main/docs/Cronograma.pdf)
