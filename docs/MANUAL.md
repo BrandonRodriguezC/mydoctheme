@@ -78,13 +78,62 @@ A continuación veras una secuencia de imagenes las cuales muestran el proceso p
 
 ### Ejecutar
 
+Este icono es cambiante dependiendo del modo en que se encuentre la herramienta, por ahora solo veremos que significa cada uno de ellos. En otro capitulo más adelante se detallará la función. 
+![](https://64.media.tumblr.com/b134e078394f8e7768a3226f32d1463b/20a2428041ebe684-10/s75x75_c1/97539e8e6ba71f96708a69054c2a343e06eb923b.png) Cuando este icono esté presente, significa que estás en modo edición y podrás editar tu codigo en el area de codificación de lo contrario no podras realizar. Si lo pulsas psaras al modo de ejecución y el icono cambiará al que se muestra a continuación. 
+![](https://64.media.tumblr.com/5adf007e3b8c350644b8f7453b67d0c8/20a2428041ebe684-b9/s75x75_c1/5d58ada7ffbfc37cfdb79d98ee56f8a90ddace1a.png) Este icono significa que estás en el modo de ejecuión el cual te permitirá ejecutar cada instrucción. Si lo pulsas volveras al modo deición y el icono cambiará al que se mostró previamente. 
+
 ### Ejecutar siguiente instrucción
+
+Este icono es cambiante dependiendo del modo (edición o ejecución) y el estado en que se encuentre si está en el modo ejecución. 
+
+![](https://64.media.tumblr.com/5a41542e4a004158369c047b1155efe2/b9a22b5e6d47ab5f-ae/s75x75_c1/0e97834a23459f496f34f6bf8255a858fc3d9ba8.png) Cuando este icono esté presente, significa que estás en modo ejecución y que podras ejecutar la siguiente instrucción.
+![](https://64.media.tumblr.com/82763d99a0a3f84cfd5a00b26342858f/b9a22b5e6d47ab5f-80/s75x75_c1/c931fbf9aee548a1d1047b1445c6e49ef3774921.png) Si este icono está presente y estas en modo edición significa que no podras ejecutar la siguiente instrucción porque no has entrado en modo ejecución. Por otro lado, si estás en modo ejecución y este icono está presente... significa que la herramienta ha terminado de ejecutar todas las intrucciónes en tu codigo y no puede ejecutar la siguiente ya que no hay más. En este punto solo podras volver al modo edición pulsando nuevamente el boón de ejecutar.
 
 ### Comparar 
 
+![](https://64.media.tumblr.com/9487126436949c3a7cf0c9c18260e786/20a2428041ebe684-87/s75x75_c1/f96ee404bf02ab86ee0277cc9e4db0c8a3b84aba.png) Al pulsar este icono podras notar los errores al comparar la tabla automatica y manual. Más adelante se mostrará un ejemplo. 
+
 ### Limpiar
 
+![](https://64.media.tumblr.com/cdd7f78d54eaf630bc54e6f0b76b9504/20a2428041ebe684-12/s75x75_c1/0e9aec7c04eaf507b097c58a6e7b56897df1dd31.png) Al pulsar este icono podras limpiar la tabla automatica y manual. Más adelante se mostrará un ejemplo.  
 
+## Area de codificación
+
+Está es la principal area de trabajo, acá podras crear algoritmos apartir de las diferentes primitivas. Está area es un espacio de trabajo filtrado y asistido, por lo cual no tienes que preocuparte de la estructura de las primitivas. 
+
+## Inserción 
+Para insertar algo en tu espacio de trabajo solo debes ubicar tu cursor **|** en la linea en la que deseas insertar la primitiva. Posteriormente haces *click derecho* y aparecerá un menú desglozando las diferentes opciones de inserción. A continuación veras la estructura del menú:
+
+- Edición
+ - Nueva línea
+ - Eliminar línea o bloque
+- Declaración de variables
+ - Entero
+ - Real
+ - Lógica
+ - Texto
+- Primitivas
+ - Simples
+  - Lectura
+  - Escritura
+  - Asignación
+ - Bloque
+  - Condicionales
+   - Si simple
+   - Si sino
+  - Ciclos
+   - Repetir
+   - Mientras que
+
+En la siguiente imagen verás como se muestra este menú en la herramienta. 
+
+![](https://64.media.tumblr.com/fefebebb4c1b5296a5333399e097b916/b0a1a57507ab36fb-8c/s2048x3072/9ff351f948b504e7b99b60086ff157d0d16ba5ee.png)
+
+Despues solo tienes que desglosar los sub-menus colocando el mouse sobre ellos, allí encontrarás la primitiva según la estructura ya definida y dar click izquierdo sobre el item.
+![](https://64.media.tumblr.com/7371012e2660a84c9b148ddc56874415/b9345515e5da8102-50/s2048x3072/84a5850f661d08b4223ec8e888e72604695f1d15.png)
+![](https://64.media.tumblr.com/0d04e95860522ce9aed3b89376d6e1f2/b9345515e5da8102-65/s2048x3072/c20066891dfd8a382cddc045b2242a5268a84096.png)
+
+Cada primitiva tiene un espacio donde podras ingresar tus expresiones libremente, es decir, podras ingresar el contenido desde tu teclado como es habitual. Este espacio esta definido por un resaltado o sombreado el cual aparecerá unicamente cuando el cursor se ubique en la linea. Este sombreado te notificará por medio de colores si la expresion es correcta o incorrecta según la primitiva. La herramienta te notificará los errores en este espacio por medio de color naranja ![](https://64.media.tumblr.com/db6ebb8dfa6269a4aa989e8a6d5a40ec/0fd4a0124c0f5562-d4/s75x75_c1/842f05eb2b31dcd97304fd97f0010d708889e36a.png), pero si tu expresion es correcta para la primitiva su color será verde ![](https://64.media.tumblr.com/228e5e7eda5e3fb5032c863d90492cfc/0fd4a0124c0f5562-85/s75x75_c1/db1b972898893e789a11fb0056b0149667666a75.png).
 
 ### Uso
 
