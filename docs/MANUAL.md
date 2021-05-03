@@ -192,6 +192,11 @@ Las salidas (ejeuctadas por la primitiva simple *escritura*) tendrán la estruct
 
 ![](https://64.media.tumblr.com/d0387c9fd42b5c277d7c13683371eb1e/cdbb3bd489bd493d-49/s2048x3072/0d360e48c79b86cefedb5b5566adf1ef9d54e60b.png)
 
+Por otro lado en la *Consola de entradas se expresará* de la siguiente manera en la columna de escritura:
+![](https://64.media.tumblr.com/9e0248d1130d75ead700250c621b235f/2ff8aef47ad11cf7-87/s2048x3072/8e6645e6f112ad218b94cd17cf1deebdde25e677.png)
+# Ejecución
+Cuando el programa entre en modo ejecución despues de pulsar el botón 
+<img src="https://64.media.tumblr.com/b134e078394f8e7768a3226f32d1463b/20a2428041ebe684-10/s75x75_c1/97539e8e6ba71f96708a69054c2a343e06eb923b.png" width="40px" > se cambiará al icono <img src="https://64.media.tumblr.com/5adf007e3b8c350644b8f7453b67d0c8/20a2428041ebe684-b9/s75x75_c1/5d58ada7ffbfc37cfdb79d98ee56f8a90ddace1a.png" width="40px" >. En este modo no podrás alterar tu codigo de ninguna manera, se limpiara la información en las tablas y consolas, y aparecera una linea sombreada azul atravesando los paneles de codificacion, tablas y consola de entradas y salidas indicando que dicha linea es la actual en ejecucion. La linea recorrerá el codigo en funcion al comportamiento teorico de las primitivas. Cada que se denote un cambio en memoria (al asignar un nuevo valor en alguna variable) se mostrará en la *Tabla autoamtica* en la linea antes mencionada. En caso de efecturase un error se presentará en el area de *Consola de información*. Si se expresa una escritur, entonces se denotará esta en la *Consola de infroamción* y *Consola de entradas y salidas*.
 ### Uso
 
 * Para saber mas detalle del error, has click en el panel derecho en la pestaña "Consola de errores"
