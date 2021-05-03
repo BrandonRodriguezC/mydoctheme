@@ -79,15 +79,15 @@ A continuación veras una secuencia de imagenes las cuales muestran el proceso p
 ### Ejecutar
 
 Este icono es cambiante dependiendo del modo en que se encuentre la herramienta, por ahora solo veremos que significa cada uno de ellos. En otro capitulo más adelante se detallará la función. 
-![](https://64.media.tumblr.com/b134e078394f8e7768a3226f32d1463b/20a2428041ebe684-10/s75x75_c1/97539e8e6ba71f96708a69054c2a343e06eb923b.png) Cuando este icono esté presente, significa que estás en modo edición y podrás editar tu codigo en el area de codificación de lo contrario no podras realizar. Si lo pulsas psaras al modo de ejecución y el icono cambiará al que se muestra a continuación. 
-![](https://64.media.tumblr.com/5adf007e3b8c350644b8f7453b67d0c8/20a2428041ebe684-b9/s75x75_c1/5d58ada7ffbfc37cfdb79d98ee56f8a90ddace1a.png) Este icono significa que estás en el modo de ejecuión el cual te permitirá ejecutar cada instrucción. Si lo pulsas volveras al modo deición y el icono cambiará al que se mostró previamente. 
+- ![](https://64.media.tumblr.com/b134e078394f8e7768a3226f32d1463b/20a2428041ebe684-10/s75x75_c1/97539e8e6ba71f96708a69054c2a343e06eb923b.png) Cuando este icono esté presente, significa que estás en modo edición y podrás editar tu codigo en el area de codificación de lo contrario no podras realizar. Si lo pulsas psaras al modo de ejecución y el icono cambiará al que se muestra a continuación. 
+- ![](https://64.media.tumblr.com/5adf007e3b8c350644b8f7453b67d0c8/20a2428041ebe684-b9/s75x75_c1/5d58ada7ffbfc37cfdb79d98ee56f8a90ddace1a.png) Este icono significa que estás en el modo de ejecuión el cual te permitirá ejecutar cada instrucción. Si lo pulsas volveras al modo deición y el icono cambiará al que se mostró previamente. 
 
 ### Ejecutar siguiente instrucción
 
 Este icono es cambiante dependiendo del modo (edición o ejecución) y el estado en que se encuentre si está en el modo ejecución. 
 
-![](https://64.media.tumblr.com/5a41542e4a004158369c047b1155efe2/b9a22b5e6d47ab5f-ae/s75x75_c1/0e97834a23459f496f34f6bf8255a858fc3d9ba8.png) Cuando este icono esté presente, significa que estás en modo ejecución y que podras ejecutar la siguiente instrucción.
-![](https://64.media.tumblr.com/82763d99a0a3f84cfd5a00b26342858f/b9a22b5e6d47ab5f-80/s75x75_c1/c931fbf9aee548a1d1047b1445c6e49ef3774921.png) Si este icono está presente y estas en modo edición significa que no podras ejecutar la siguiente instrucción porque no has entrado en modo ejecución. Por otro lado, si estás en modo ejecución y este icono está presente... significa que la herramienta ha terminado de ejecutar todas las intrucciónes en tu codigo y no puede ejecutar la siguiente ya que no hay más. En este punto solo podras volver al modo edición pulsando nuevamente el boón de ejecutar.
+- ![](https://64.media.tumblr.com/5a41542e4a004158369c047b1155efe2/b9a22b5e6d47ab5f-ae/s75x75_c1/0e97834a23459f496f34f6bf8255a858fc3d9ba8.png) Cuando este icono esté presente, significa que estás en modo ejecución y que podras ejecutar la siguiente instrucción.
+- ![](https://64.media.tumblr.com/82763d99a0a3f84cfd5a00b26342858f/b9a22b5e6d47ab5f-80/s75x75_c1/c931fbf9aee548a1d1047b1445c6e49ef3774921.png) Si este icono está presente y estas en modo edición significa que no podras ejecutar la siguiente instrucción porque no has entrado en modo ejecución. Por otro lado, si estás en modo ejecución y este icono está presente... significa que la herramienta ha terminado de ejecutar todas las intrucciónes en tu codigo y no puede ejecutar la siguiente ya que no hay más. En este punto solo podras volver al modo edición pulsando nuevamente el boón de ejecutar.
 
 ### Comparar 
 
