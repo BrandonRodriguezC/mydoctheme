@@ -173,30 +173,24 @@ Si se vuelve a comparar las tablas una vez corregido el error se cambiará el co
 La consola de información es la encargada de detallar los diferentes errores en las expresiones, TestDesk comprobará la expresion de manera lexica, sintactica y semantica. En caso de encontrar un error lo notificará en la consola de informacion y aplicará un resaltado color naranja sobre ella. La estructura del error sera **ERROR L** *#* **:** *Detalle del error*. Donde el *#* indica el numero de linea y el *Detalle del error* mostrará el error con mayor información. A continuación se muestran unos ejemplos de errores lexicos, sintacticos y semanticos. 
 
 ### Error lexico
-<div style="display:flex">
-<img src="https://64.media.tumblr.com/3b472405fbd1c474caca0a404afa5a08/c30f640f55ca734a-88/s640x960/b1afb45ec3af53945bbd55f7e15a81f57266f6cb.png" width="50%" >
-<img src="https://64.media.tumblr.com/7dee3a3985304b2c1b4759faa049c6a4/c30f640f55ca734a-6e/s640x960/4e42a87e9e2e1250e423ee0df0ab30c22ed7b414.png" width="50%" >
-</div>
+![](https://64.media.tumblr.com/7825fc24c24602a2322b1e6f6653b3fe/0ff1d4173e6a398d-16/s2048x3072/392eef6f032fddbaa2466e6d1c844da899a603e1.png)
 
 ### Error sintactico
-<div style="display:flex">
-<img src="https://64.media.tumblr.com/430a974dac80726ee592b7d5c6ecd0ae/54bada90e032b14d-d4/s500x750/32976c7a57c92a8dec8cd101db1486d4410d5669.png" width="50%" >
-<img src="https://64.media.tumblr.com/59a867a329b225cb9cb711ca5a3dfaea/54bada90e032b14d-cf/s640x960/141f28dbadfe4960391380dc1d21e2ad789d4ac0.png" width="50%" >
-</div>
+![](https://64.media.tumblr.com/cb22f7f33780d5336eb515e45bd1a373/0ff1d4173e6a398d-d8/s2048x3072/cc955d0149a1d36d002428c2da2bb77554411ce7.png)
 
 ### Error semantico
-<div style="display:flex">
-<img src="https://64.media.tumblr.com/6989ec74d3336004ffd44510e3847745/cdcf9ab8ae055e9a-15/s640x960/b95e058255406e6582ecf9d36d9d2a4b783c27f9.png" width="50%" >
-<img src="https://64.media.tumblr.com/97871c10d413ceabf71b70c570dcb8c2/cdcf9ab8ae055e9a-c3/s640x960/417b1bf2fe2a83eec5563577d3220146abab53f0.png" width="50%" >
-</div>
+![](https://64.media.tumblr.com/8fe29e71c854988c90b481514048c58a/0ff1d4173e6a398d-9f/s2048x3072/63838d5750d839ff609f203170dc79d2df65331f.png)
 
 La consola de información también es capaz de mostrar informacion en ejecución, como errores en la operacion de expresiones o salidas. A continuación se muestra un ejmeplo de cada una:
 
 ### Errores en la operacion de expresiones
+Los errores en ejeución se verán con la misma estructura explicada anteriormente. A continuacion un ejemplo:
 
+![](https://64.media.tumblr.com/6b2d899283799a7cf5e3efa1ff7c5a27/cdbb3bd489bd493d-bd/s2048x3072/9bfd6fc2bb40fb44f1d7b60ea71953e52763c5a6.png)
 ### Salidas
+Las salidas (ejeuctadas por la primitiva simple *escritura*) tendrán la estructura **EJERCUIÓN:** *Impresion*
 
-
+![](https://64.media.tumblr.com/d0387c9fd42b5c277d7c13683371eb1e/cdbb3bd489bd493d-49/s2048x3072/0d360e48c79b86cefedb5b5566adf1ef9d54e60b.png)
 
 ### Uso
 
