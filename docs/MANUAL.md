@@ -101,7 +101,7 @@ Este icono es cambiante dependiendo del modo (edición o ejecución) y el estado
 
 Está es la principal area de trabajo, acá podras crear algoritmos apartir de las diferentes primitivas. Está area es un espacio de trabajo filtrado y asistido, por lo cual no tienes que preocuparte de la estructura de las primitivas. 
 
-## Inserción 
+### Inserción 
 Para insertar algo en tu espacio de trabajo solo debes ubicar tu cursor **|** en la linea en la que deseas insertar la primitiva. Posteriormente haces *click derecho* y aparecerá un menú desglozando las diferentes opciones de inserción. A continuación veras la estructura del menú:
 
 
@@ -147,16 +147,16 @@ No te preocupes por la indentación (sangria), este recurso lingüistico es muy 
 
 En este area podrás ver loq eu ocurre con tu programa en memoria, existen 2 pestañas *Tabla autoamtica* y *Tabla manual*. 
 
-## Tabla automatica 
+### Tabla automatica 
 En la tabla automatica podras ver lo que ocurre con tu programa en memoria, este es un recurso que suele hacerse de manera manual por los programadores, mas sin embargo esta herramienta lo hace automaticamente por ti mientras creas un modelo mental de como hacerlo y así no te confundirás en el futuro. Está tabla se va llenando cuando estes en modo ejecución y recorriendo (ejecutando) cada instrucción. 
 En la barra superior color azul con letras blancas encontraras las variables declaradas. Cada una de sus filas está alineada con las lineas de codigo presentes en el area de codifiación, asi que para encontrar el cambio ocurrido en memoria en la ejecución solo debes ubidar la fila correspondiente a la linea y tambien la columna a la que corresponda la variable asignada con el cambio. En esta tabla no podrás insertar valores. En el capitulo de ejecución se hara un ejemplo de ello.
 
-## Tabla manual 
+### Tabla manual 
 En la tabla manual es posible insertar valores correspondientes a los cambios que tu identifiques, para ello debes entrar en modo ejecución. De esta manera podras llenarla y a medida de que se ejecuten las lineas podras identificar las diferencias (errores) al comparar la tabla automatica con la tabla manual. 
 
-## Comparar Tablas
+### Comparar Tablas
 
-En la siguiente imagen podras un ejemplo de esta función explicada en el capitulo *BarraSuperior.Comparar*. En este caso la linea 1 para las variables *a* y *b* se denota una declaracion, por ende se inicializa la variable con valores predefinidos (en este caso 0). Como se puede apreciar en la *Tabla autoamtica* los valores declarados son *0* y *0* mientras que los valores denotados en la *Tabla manual* son *0* y *1*. Al pulsar el boton comparar se cambiaran los estilos de las celdas, para poder verlos adecuadamente es necesario que *la linea de ejecucion* no se encuentre en la misma fila. 
+En la siguiente imagen podras un ejemplo de esta función explicada en el capitulo *BarraSuperior.Comparar*. En este caso la linea 1 para las variables *a* y *b* se denota una declaracion, por ende se inicializa la variable con valores predefinidos (en este caso 0). Como se puede apreciar en la *Tabla automatica* los valores declarados son *0* y *0* mientras que los valores denotados en la *Tabla manual* son *0* y *1*. Al pulsar el boton comparar se cambiaran los estilos de las celdas, para poder verlos adecuadamente es necesario que *la linea de ejecucion* no se encuentre en la misma fila. 
 
 <div style="display:flex">
 <img src="https://64.media.tumblr.com/438bad3a006c05ca33023b57045ed602/0657eef3635eb1e6-47/s2048x3072/e98d26a535b9b02717e07467f340b9621d1cb39d.png" width="50%" >
@@ -167,11 +167,38 @@ Cambio de estilos al comparar las tablas:
 <img src="https://64.media.tumblr.com/4dadef7b66a41ae548c1afe3aa8ac20d/0657eef3635eb1e6-d6/s2048x3072/fdc55054a88d2d3ab1fef28ca7d28864201088ba.png" width="50%" >
 <img src="https://64.media.tumblr.com/70f49b2bff73a1ff34beaec8d1dabc62/0657eef3635eb1e6-4b/s2048x3072/e2429cbc88ed349f4f14b30a72070cb4ca69368d.png" width="50%" >
 </div>
+Si se vuelve a comparar las tablas una vez corregido el error se cambiará el color de la celdas a blanco nuevamente. 
+
+## Area de consolas
+La consola de información es la encargada de detallar los diferentes errores en las expresiones, TestDesk comprobará la expresion de manera lexica, sintactica y semantica. En caso de encontrar un error lo notificará en la consola de informacion y aplicará un resaltado color naranja sobre ella. La estructura del error sera **ERROR L** *#* **:** *Detalle del error*. Donde el *#* indica el numero de linea y el *Detalle del error* mostrará el error con mayor información. A continuación se muestran unos ejemplos de errores lexicos, sintacticos y semanticos. 
+
+### Error lexico
+<div style="display:flex">
+<img src="https://64.media.tumblr.com/3b472405fbd1c474caca0a404afa5a08/c30f640f55ca734a-88/s640x960/b1afb45ec3af53945bbd55f7e15a81f57266f6cb.png" width="50%" >
+<img src="https://64.media.tumblr.com/7dee3a3985304b2c1b4759faa049c6a4/c30f640f55ca734a-6e/s640x960/4e42a87e9e2e1250e423ee0df0ab30c22ed7b414.png" width="50%" >
+</div>
+
+### Error sintactico
+<div style="display:flex">
+<img src="https://64.media.tumblr.com/430a974dac80726ee592b7d5c6ecd0ae/54bada90e032b14d-d4/s500x750/32976c7a57c92a8dec8cd101db1486d4410d5669.png" width="50%" >
+<img src="https://64.media.tumblr.com/59a867a329b225cb9cb711ca5a3dfaea/54bada90e032b14d-cf/s640x960/141f28dbadfe4960391380dc1d21e2ad789d4ac0.png" width="50%" >
+</div>
+
+### Error semantico
+<div style="display:flex">
+<img src="https://64.media.tumblr.com/6989ec74d3336004ffd44510e3847745/cdcf9ab8ae055e9a-15/s640x960/b95e058255406e6582ecf9d36d9d2a4b783c27f9.png" width="50%" >
+<img src="https://64.media.tumblr.com/97871c10d413ceabf71b70c570dcb8c2/cdcf9ab8ae055e9a-c3/s640x960/417b1bf2fe2a83eec5563577d3220146abab53f0.png" width="50%" >
+</div>
+
+La consola de información también es capaz de mostrar informacion en ejecución, como errores en la operacion de expresiones o salidas. A continuación se muestra un ejmeplo de cada una:
+
+### Errores en la operacion de expresiones
+
+### Salidas
+
+
+
 ### Uso
 
 * Para saber mas detalle del error, has click en el panel derecho en la pestaña "Consola de errores"
 * Para ejecutar tu codigo, has click en el botón *Secuenciar* y luego has click en el botón *Ejecutar siguiente* para ejecutar la siguiente instrucción (ambos botones se encuentran en la barra superior)
-* Los cambios se verán efectuados en el panel central en la pestaña *Tabla Automatica*
-* Para guardar el archivo has click en el botón *Guardar archivo* (ubicado en la barra superior)
-* Para abrir un archivo has click en el botón *Abrir archivo* (ubicado en la barra superior)
-* Si deseas utilizar otro editor de codigo en paralelo has click en el botón *Nueva pestaña* (ubicado en la barra superior)
