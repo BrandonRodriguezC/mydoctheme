@@ -157,13 +157,16 @@ En la tabla manual es posible insertar valores correspondientes a los cambios qu
 ## Comparar Tablas
 
 En la siguiente imagen podras un ejemplo de esta función explicada en el capitulo *BarraSuperior.Comparar*. En este caso la linea 1 para las variables *a* y *b* se denota una declaracion, por ende se inicializa la variable con valores predefinidos (en este caso 0). Como se puede apreciar en la *Tabla autoamtica* los valores declarados son *0* y *0* mientras que los valores denotados en la *Tabla manual* son *0* y *1*. Al pulsar el boton comparar se cambiaran los estilos de las celdas, para poder verlos adecuadamente es necesario que *la linea de ejecucion* no se encuentre en la misma fila. 
+
+<div style="display:flex">
 <img src="https://64.media.tumblr.com/438bad3a006c05ca33023b57045ed602/0657eef3635eb1e6-47/s2048x3072/e98d26a535b9b02717e07467f340b9621d1cb39d.png" width="50%" >
 <img src="https://64.media.tumblr.com/f75a8087a32f0bdd5e6939ae31139d81/0657eef3635eb1e6-06/s2048x3072/746d4bb949edd887717edb2de8c6cd1bec536d04.png" width="50%" >
-
+</div>
 Cambio de estilos al comparar las tablas:
+<div style="display:flex">
 <img src="https://64.media.tumblr.com/4dadef7b66a41ae548c1afe3aa8ac20d/0657eef3635eb1e6-d6/s2048x3072/fdc55054a88d2d3ab1fef28ca7d28864201088ba.png" width="50%" >
 <img src="https://64.media.tumblr.com/70f49b2bff73a1ff34beaec8d1dabc62/0657eef3635eb1e6-4b/s2048x3072/e2429cbc88ed349f4f14b30a72070cb4ca69368d.png" width="50%" >
-
+</div>
 ### Uso
 
 * Para saber mas detalle del error, has click en el panel derecho en la pestaña "Consola de errores"
