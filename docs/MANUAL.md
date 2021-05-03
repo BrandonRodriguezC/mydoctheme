@@ -105,25 +105,25 @@ Está es la principal area de trabajo, acá podras crear algoritmos apartir de l
 Para insertar algo en tu espacio de trabajo solo debes ubicar tu cursor **|** en la linea en la que deseas insertar la primitiva. Posteriormente haces *click derecho* y aparecerá un menú desglozando las diferentes opciones de inserción. A continuación veras la estructura del menú:
 
 1. Edición
- 1. Nueva línea
- 1. Eliminar línea o bloque
+  1. Nueva línea
+  1. Eliminar línea o bloque
 1. Declaración de variables
- 1. Entero
- 1. Real
- 1. Lógica
- 1. Texto
+  1. Entero
+  1. Real
+  1. Lógica
+  1. Texto
 1. Primitivas
- 1. Simples
-  1. Lectura
-  1. Escritura
-  1. Asignación
- 1. Bloque
-  1. Condicionales
-   1. Si simple
-   1. Si sino
-  1. Ciclos
-   1. Repetir
-   1. Mientras que
+  1. Simples
+    1. Lectura
+    1. Escritura
+    1. Asignación
+  1. Bloque
+    1. Condicionales
+      1. Si simple
+      1. Si sino
+    1. Ciclos
+      1. Repetir
+      1. Mientras que
 
 En la siguiente imagen verás como se muestra este menú en la herramienta. 
 
