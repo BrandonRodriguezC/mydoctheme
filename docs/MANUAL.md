@@ -136,11 +136,39 @@ Despues solo tienes que desglosar los sub-menus colocando el mouse sobre ellos, 
 
 Cada primitiva tiene un espacio donde podras ingresar tus expresiones libremente, es decir, podras ingresar el contenido desde tu teclado como es habitual. Este espacio esta definido por un resaltado o sombreado el cual aparecerá unicamente cuando el cursor se ubique en la linea. Este sombreado te notificará por medio de colores si la expresion es correcta o incorrecta según la primitiva. La herramienta te notificará los errores en este espacio por medio de color naranja ![](https://64.media.tumblr.com/db6ebb8dfa6269a4aa989e8a6d5a40ec/0fd4a0124c0f5562-d4/s75x75_c1/842f05eb2b31dcd97304fd97f0010d708889e36a.png), pero si tu expresion es correcta para la primitiva su color será verde ![](https://64.media.tumblr.com/228e5e7eda5e3fb5032c863d90492cfc/0fd4a0124c0f5562-85/s75x75_c1/db1b972898893e789a11fb0056b0149667666a75.png).
 
+### Indentación 
+No te preocupes por la indentación (sangria), este recurso lingüistico es muy importante en programación sobre todo en lenguajes como Python. TestDesk es capaz de calcular la indentación necesaria para la inserción de alguna primitiva dentro de un bloque, a continuación veras un ejemplo de ello. 
+
+![](https://64.media.tumblr.com/30dcc4c26fef7e2720cd3fd0704386d3/b231b9a5e527f041-05/s2048x3072/3ff450fab907623c4790c181609a272cb7920407.png)
+![](https://64.media.tumblr.com/f797ba4a7fe81210c9468a6f06110c96/b231b9a5e527f041-57/s2048x3072/b7223a62978a630225fdc8ebd3b59d01ebf53e47.png)
+![](https://64.media.tumblr.com/32e3c3bf54e59ca58805f4f9406fac8d/b231b9a5e527f041-5c/s2048x3072/be1f9371e11b0e02f1a4d74768c7089eee0f7b4f.png)
+
+## Area de pruebas de escritorio
+
+En este area podrás ver loq eu ocurre con tu programa en memoria, existen 2 pestañas *Tabla autoamtica* y *Tabla manual*. 
+
+## Tabla automatica 
+En la tabla automatica podras ver lo que ocurre con tu programa en memoria, este es un recurso que suele hacerse de manera manual por los programadores, mas sin embargo esta herramienta lo hace automaticamente por ti mientras creas un modelo mental de como hacerlo y así no te confundirás en el futuro. Está tabla se va llenando cuando estes en modo ejecución y recorriendo (ejecutando) cada instrucción. 
+En la barra superior color azul con letras blancas encontraras las variables declaradas. Cada una de sus filas está alineada con las lineas de codigo presentes en el area de codifiación, asi que para encontrar el cambio ocurrido en memoria en la ejecución solo debes ubidar la fila correspondiente a la linea y tambien la columna a la que corresponda la variable asignada con el cambio. En esta tabla no podrás insertar valores. En el capitulo de ejecución se hara un ejemplo de ello.
+
+## Tabla manual 
+En la tabla manual es posible insertar valores correspondientes a los cambios que tu identifiques, para ello debes entrar en modo ejecución. De esta manera podras llenarla y a medida de que se ejecuten las lineas podras identificar las diferencias (errores) al comparar la tabla automatica con la tabla manual. 
+
+## Comparar Tablas
+
+En la siguiente imagen podras un ejemplo de esta función explicada en el capitulo *BarraSuperior.Comparar*. En este caso la linea 1 para las variables *a* y *b* se denota una declaracion, por ende se inicializa la variable con valores predefinidos (en este caso 0). Como se puede apreciar en la *Tabla autoamtica* los valores declarados son *0* y *0* mientras que los valores denotados en la *Tabla manual* son *0* y *1*. Al pulsar el boton comparar se cambiaran los estilos de las celdas, para poder verlos adecuadamente es necesario que *la linea de ejecucion* no se encuentre en la misma fila. 
+
+![](https://64.media.tumblr.com/438bad3a006c05ca33023b57045ed602/0657eef3635eb1e6-47/s2048x3072/e98d26a535b9b02717e07467f340b9621d1cb39d.png){:height="50%" width="50%"}
+![](https://64.media.tumblr.com/f75a8087a32f0bdd5e6939ae31139d81/0657eef3635eb1e6-06/s2048x3072/746d4bb949edd887717edb2de8c6cd1bec536d04.png){:height="50%" width="50%"}
+
+Cambio de estilos al comparar las tablas:
+
+![](https://64.media.tumblr.com/4dadef7b66a41ae548c1afe3aa8ac20d/0657eef3635eb1e6-d6/s2048x3072/fdc55054a88d2d3ab1fef28ca7d28864201088ba.png){:height="50%" width="50%"}
+![](https://64.media.tumblr.com/70f49b2bff73a1ff34beaec8d1dabc62/0657eef3635eb1e6-4b/s2048x3072/e2429cbc88ed349f4f14b30a72070cb4ca69368d.png){:height="50%" width="50%"}
+
+
 ### Uso
 
-* Sobre el area de codigo has click izquierdo y encontraras el menu de inserción de estructuras de codigo.
-* Unicamente podras escribir con el teclado sobre las areas sombreadas
-* El programa te sombreará la expresion de color amarillo en caso de que la entrada tenga un error ya sea lexicamente, sintacticamente o semanticamente  
 * Para saber mas detalle del error, has click en el panel derecho en la pestaña "Consola de errores"
 * Para ejecutar tu codigo, has click en el botón *Secuenciar* y luego has click en el botón *Ejecutar siguiente* para ejecutar la siguiente instrucción (ambos botones se encuentran en la barra superior)
 * Los cambios se verán efectuados en el panel central en la pestaña *Tabla Automatica*
