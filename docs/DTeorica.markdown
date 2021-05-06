@@ -65,7 +65,8 @@ Por medio de un algoritmo de transformación de notación infija a postfija se l
 | `+ -` | 4 |
 | `* / %` | 5 |
 | `^` | 6 |
-| `()` | 7 |
+| `!` | 7 |
+| `()` | 8 |
 
 
 #### Evaluación de notación polaca inversa  
