@@ -39,10 +39,13 @@ o estudiantes que apenas empiezan a programar, este software se comportara como 
 La herramienta se limita al uso de primitivas de programación:
 ## Asignación
 <p style = "background-color:#ffcc67">     </p> =       ;
+
 ## Lectura
         = leer( );
+
 ## Escritura
  escribir(        );
+
 ## Estructuras condicionales
 si (      )
 {
@@ -57,6 +60,7 @@ sino
 {
 
 }
+
 ## Estructuras cíclicas
 repetir (       ) veces
 {
