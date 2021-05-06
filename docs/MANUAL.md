@@ -38,39 +38,39 @@ o estudiantes que apenas empiezan a programar, este software se comportara como 
 # Pseudocódigo
 La herramienta se limita al uso de primitivas de programación:
 ## Asignación
-<p style = "background-color:#ffcc67">     </p> =       ;
+`[    ] =  [    ];`
 
 ## Lectura
-        = leer( );
+` [    ] = leer( );`
 
 ## Escritura
- escribir(        );
+ `escribir([    ]);`
 
 ## Estructuras condicionales
-si (      )
+`si ([    ])
 {
 
 } 
 
-si (       )
+si ([    ])
 {
 
 }
 sino
 {
 
-}
+}`
 
 ## Estructuras cíclicas
-repetir (       ) veces
+`repetir ([    ]) veces
 {
 
 } 
 
-mientras que (       )
+mientras que ([    ])
 {
 
-}
+}`
 
 Por lo tanto, la complejidad de los algoritmos por los cuales se desarrolló esta propuesta son de carácter simple, sin ser extensos mayormente haciendo uso únicamente de un método principal sin invocar a secundarios (archivo principal de trabajo). 
 
@@ -80,21 +80,21 @@ Los operadores básicos involucrados en esta herramienta son los siguientes sím
 
 | Operador  | Operación  |
 |-----------|------------|
-| '||' | ó    |
-| '&&' | y |
-| '==' | igual que  |
-| '!=' | diferente que  |
-| '> ' | mayor que |
-| '< ' | menos que |
-| '<=' | menor o igual que |
-| '>=' | mayor o igual que |
-| '! ' | negación |
-| '+ ' | suma |
-| '- ' | resta |
-| '* ' | multiplicación |
-| '/ ' | división |
-| '% ' | módulo |
-| '^ ' | potencia |
+| `||` | ó    |
+| `&&` | y |
+| `==` | igual que  |
+| `!=` | diferente que  |
+| `>` | mayor que |
+| `<` | menos que |
+| `<=` | menor o igual que |
+| `>=` | mayor o igual que |
+| `!` | negación |
+| `+` | suma |
+| `-` | resta |
+| `*` | multiplicación |
+| `/` | división |
+| `%` | módulo |
+| `^` | potencia |
 
 
 # Áreas
