@@ -35,6 +35,64 @@ o estudiantes que apenas empiezan a programar, este software se comportara como 
  - Apertura de instancias de documentos (pseudocódigo fuente) ~ Abrir código/archivo
  - Generación de múltiples áreas de código
 
+# Pseudocódigo
+La herramienta se limita al uso de primitivas de programación:
+## Asignación
+<p style = "background-color:#ffcc67">     </p> =       ;
+## Lectura
+        = leer( );
+## Escritura
+ escribir(        );
+## Estructuras condicionales
+si (      )
+{
+
+} 
+
+si (       )
+{
+
+}
+sino
+{
+
+}
+## Estructuras cíclicas
+repetir (       ) veces
+{
+
+} 
+
+mientras que (       )
+{
+
+}
+
+Por lo tanto, la complejidad de los algoritmos por los cuales se desarrolló esta propuesta son de carácter simple, sin ser extensos mayormente haciendo uso únicamente de un método principal sin invocar a secundarios (archivo principal de trabajo). 
+
+El pseudocódigo al ser independiente es posible delimitarlo a 4 tipos de datos (entero, decimal, texto, lógico) con el propósito de acercar al estudiante al contexto de tipación en los lenguajes. Con base a estos tipos de datos se excluyeron vectores o matrices de los mismos. 
+
+Los operadores básicos involucrados en esta herramienta son los siguientes símbolos:
+
+| Operador  | Operación  |
+|-----------|------------|
+| '||' | ó    |
+| '&&' | y |
+| '==' | igual que  |
+| '!=' | diferente que  |
+| '> ' | mayor que |
+| '< ' | menos que |
+| '<=' | menor o igual que |
+| '>=' | mayor o igual que |
+| '! ' | negación |
+| '+ ' | suma |
+| '- ' | resta |
+| '* ' | multiplicación |
+| '/ ' | división |
+| '% ' | módulo |
+| '^ ' | potencia |
+
+
 # Áreas
 
 El aplicativo se encuentra distribuido en cuatro áreas de trabajo, las cuales se denominan:
