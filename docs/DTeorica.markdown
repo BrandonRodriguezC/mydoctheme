@@ -59,7 +59,7 @@ Por medio de un algoritmo de transformación de notación infija a postfija se l
 
 | Operador | Prioridad |
 | --- | --- |
-| `||` | 1 |
+| `|``|` | 1 |
 | `&&` | 2 |
 | `== != < > <= >=` | 3 |
 | `+ -` | 4 |
