@@ -14,7 +14,7 @@ parent: Vistas y Modelos
 
 Para [Gutierrez](https://www.codecompiling.net/files/slides/UML_clase_04_UML_clases.pdf) de la Universidad de los Andes (Venezuela), un diagrama de clases representa la estructura estática del sistema modelado, donde se contemplan las relaciones existentes entre los diferentes componentes y se concentran elementos del sistema de forma independiente del tiempo. A continuación se aprecia una previsualización del modelo detallado de clases.
 
-![](https://64.media.tumblr.com/3373ab66d3857bea509b3a2613f2824a/e8fe9a1c917b0bed-ee/s2048x3072/28fb8613d4fe95a562ae6b0a87350d6a3c64bb80.png)
+![](https://64.media.tumblr.com/06be574f86735c001a13fd580783fee8/6cf3f47312bac3a1-32/s2048x3072/3acde629af975e02645f3868e275ec9238945751.png)
 
 Puedes ver con mas detalle este diagrama entrando [aquí](Diagrama_Clases.png)
 
