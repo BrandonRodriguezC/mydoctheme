@@ -7,6 +7,10 @@ nav_order: 100
 # Manual de Usuario
 {: .no_toc }
 
+Puedes descargar el manual de usuario en formato *PDF*.
+
+[Descargar](https://github.com/BrandonRodriguezC/testdesk-documentacion/blob/main/docs/Manual%20de%20Usuario%20-%20TestDesk.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .bg-purple-000 }
+
 ## Tabla de contenidos
 {: .no_toc .text-delta }
 
