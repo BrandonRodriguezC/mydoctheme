@@ -265,12 +265,9 @@ Cuando el programa entre en modo ejecución después de pulsar el botón
 
 A continuación una serie de videos que muestran su función:
 
-<div style="display:flex">
- 
-[![Ejemplo 1 - TestDesk](https://img.youtube.com/vi/7o-QY5pZg-A/0.jpg)](https://www.youtube.com/watch?v=7o-QY5pZg-A "Ejemplo 1 - TestDesk")
+[Ejemplo 1 - TestDesk](https://www.youtube.com/watch?v=7o-QY5pZg-A)
 
-[![Ejemplo 2 - TestDesk](https://img.youtube.com/vi/NnG5Irskiok/0.jpg)](https://www.youtube.com/watch?v=NnG5Irskiok "Ejemplo 2 - TestDesk")
+[Ejemplo 2 - TestDesk](https://www.youtube.com/watch?v=NnG5Irskiok)
 
-[![Ejemplo 3 - TestDesk](https://img.youtube.com/vi/fmXKpE38qMw/0.jpg)](https://www.youtube.com/watch?v=fmXKpE38qMw "Ejemplo 3 - TestDesk")
+[Ejemplo 3 - TestDesk](https://www.youtube.com/watch?v=fmXKpE38qMw)
 
-</div>
