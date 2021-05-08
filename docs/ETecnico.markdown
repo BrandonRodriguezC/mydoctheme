@@ -25,12 +25,5 @@ Aqui se encuentra toda la documentación formal de la herramienta TestDesk.
 ### Sets de pruebas de ejecución
 Actualmente las pruebas más vitales para la ejecución son Condicional.td y tablas-de-multiplicar.td (revisar en [carpeta](https://github.com/BrandonRodriguezC/TestDesk/tree/main/Pruebas))
 
-### Commit
-Lanzamiento de beta 1
 ### Cambios
 - Motor de estilos y correccion de espacios 
-
-### Por hacer
-* Correccion de errores
-* Adicion de funcion de registro
-* Adicion de manual
