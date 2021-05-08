@@ -264,7 +264,7 @@ Cuando el programa entre en modo ejecución después de pulsar el botón
 <img src="https://64.media.tumblr.com/b134e078394f8e7768a3226f32d1463b/20a2428041ebe684-10/s75x75_c1/97539e8e6ba71f96708a69054c2a343e06eb923b.png" width="20px" > se cambiará al icono <img src="https://64.media.tumblr.com/5adf007e3b8c350644b8f7453b67d0c8/20a2428041ebe684-b9/s75x75_c1/5d58ada7ffbfc37cfdb79d98ee56f8a90ddace1a.png" width="20px" >. De este modo no podrás alterar tu código de ninguna manera, se limpiará la información en las tablas y consolas, y aparecerá una línea sombreada azul atravesando los paneles de codificación, tablas y consola de entradas y salidas indicando que dicha línea es la actual en ejecución. La línea recorrerá el código en función al comportamiento teórico de las primitivas cada que pulses el botón *ejecutar siguiente instrucción* <img src="https://64.media.tumblr.com/5a41542e4a004158369c047b1155efe2/b9a22b5e6d47ab5f-ae/s75x75_c1/0e97834a23459f496f34f6bf8255a858fc3d9ba8.png" width="20px" >. Cada que se denote un cambio en memoria (al asignar un nuevo valor en alguna variable) se mostrará en la *Tabla automática* en la línea antes mencionada. En caso de efectuarse un error se presentará en el área de *Consola de información*. Si se expresa una escritura, entonces se denotará está en la *Consola de información* y *Consola de entradas y salidas*. Si se expresa una lectura, el programa ajustará el cursor en la columna de *Lectura* para la *Consola de entradas y salidas*, alli deberas ingresar el valor y continuar ejecutando la siguiente línea hasta llegar a la última de la  de la ejecución (donde el icono se encuentra deshabilitado <img src="https://64.media.tumblr.com/82763d99a0a3f84cfd5a00b26342858f/b9a22b5e6d47ab5f-80/s75x75_c1/c931fbf9aee548a1d1047b1445c6e49ef3774921.png" width="20px" >).
 
 A continuación una serie de videos que muestran su función:
- - ![](https://youtu.be/7o-QY5pZg-A)
- - ![](https://youtu.be/NnG5Irskiok)
- - ![](https://youtu.be/fmXKpE38qMw)
+![](https://youtu.be/7o-QY5pZg-A)
+![](https://youtu.be/NnG5Irskiok)
+![](https://youtu.be/fmXKpE38qMw)
 
