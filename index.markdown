@@ -12,6 +12,12 @@ permalink: /
 Aqui se encuentra toda la documentación formal de la herramienta TestDesk.
 {: .fs-6 .fw-300 }
 
+<a href="https://github.com/BrandonRodriguezC/testdesk-documentacion/blob/main/TestDesk.jar" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2" download>
+
+Descargar herramienta *.jar* 
+
+</a>
+
 [Descargar herramienta](https://github.com/BrandonRodriguezC/testdesk-documentacion/blob/main/TestDesk.jar){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 [Ver repositorio](https://github.com/BrandonRodriguezC/TestDesk){: .btn .fs-5 .mb-4 .mb-md-0 }
 
