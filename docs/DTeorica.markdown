@@ -24,8 +24,8 @@ Una vez definido el entorno gráfico a utilizar surgió la necesidad de hacer un
 Figura 1. Componentes gráficos de editores de código estilizados (RichText a la izquierda, StyledTextArea a la derecha).
 
 <div style="display:flex">
-<img src="https://64.media.tumblr.com/a7f4a2a3559c07f69683b590f02b7932/151f3562a4036efc-12/s500x750/1f70637ad403fee9b3482dcb42d750e872d0bf67.png" width="50%" >
-<img src="https://64.media.tumblr.com/8630b485ad63ddcf8240271ff30dd75d/151f3562a4036efc-16/s400x600/da20dde0154d0e922bd06739f941b73a4aa69b83.png" width="50%" >
+<img src="https://64.media.tumblr.com/a7f4a2a3559c07f69683b590f02b7932/151f3562a4036efc-12/s500x750/1f70637ad403fee9b3482dcb42d750e872d0bf67.png" width="25%" >
+<img src="https://64.media.tumblr.com/8630b485ad63ddcf8240271ff30dd75d/151f3562a4036efc-16/s400x600/da20dde0154d0e922bd06739f941b73a4aa69b83.png" width="25%" >
 </div>
 
 Fuente: Propia.
@@ -40,8 +40,8 @@ En el proceso de estilizado al insertar una estructura básica de programación,
 Figura 2. Proceso de inserción de estructuras (campo habilitado a edicion libre en amarillo)
 
  <div style="display:flex">
-<img src="https://64.media.tumblr.com/bbaac3ea9a81ae9cdeb3fa1ba5d1eb7c/0a7037249979876e-06/s400x600/3b534d5fa4a190d23e77bf76ec8432508f395ae0.png" width="50%" >
-<img src="https://64.media.tumblr.com/08ce0bc46de26f6862dd47a738227a9d/0a7037249979876e-79/s400x600/74f7d94c2e5d3d1a6e7bffea9300ed4a90059bb1.png" width="50%" >
+<img src="https://64.media.tumblr.com/bbaac3ea9a81ae9cdeb3fa1ba5d1eb7c/0a7037249979876e-06/s400x600/3b534d5fa4a190d23e77bf76ec8432508f395ae0.png" width="25%" >
+<img src="https://64.media.tumblr.com/08ce0bc46de26f6862dd47a738227a9d/0a7037249979876e-79/s400x600/74f7d94c2e5d3d1a6e7bffea9300ed4a90059bb1.png" width="25%" >
 </div> 
 
 Fuente: Propia
@@ -54,8 +54,8 @@ En los campos de libre escritura para dichos identificadores (nombres de variabl
 Figura 3. Notificación de error léxico.
 
  <div style="display:flex">
-<img src="https://64.media.tumblr.com/e8a4d7d89df994a6d0735dda997a53a4/ae0cffb0ac56d97c-f5/s500x750/57aa2103acb5dd7cfc5e6d936823fc6de2aa5cf3.png" width="50%" >
-<img src="https://64.media.tumblr.com/496cab94620c366be048204293adfc47/ae0cffb0ac56d97c-9d/s500x750/5114f3614ac8ea8a374696113399462b5672e41b.png" width="50%" >
+<img src="https://64.media.tumblr.com/e8a4d7d89df994a6d0735dda997a53a4/ae0cffb0ac56d97c-f5/s500x750/57aa2103acb5dd7cfc5e6d936823fc6de2aa5cf3.png" width="25%" >
+<img src="https://64.media.tumblr.com/496cab94620c366be048204293adfc47/ae0cffb0ac56d97c-9d/s500x750/5114f3614ac8ea8a374696113399462b5672e41b.png" width="25%" >
 </div> 
 
 Fuente: Propia
@@ -71,7 +71,7 @@ Nuevamente, Alfonseca  explica el uso de autómatas finitos deterministas como m
 Figura 4. Ejemplo de autómata determinista finito para la declaración de una o varias variables.
 
  <div style="display:flex">
-<img src="https://64.media.tumblr.com/97c8a1704088ad62d6833accb8ed7109/b823531c57a8403b-3b/s540x810/7dda84885bf9f6836fa6cb363b9baa08b6574a99.png" width="100%" >
+<img src="https://64.media.tumblr.com/97c8a1704088ad62d6833accb8ed7109/b823531c57a8403b-3b/s540x810/7dda84885bf9f6836fa6cb363b9baa08b6574a99.png" width="50%" >
 </div>
 
 Fuente: Propia
@@ -83,8 +83,8 @@ Como se puede ver en la imagen, para que una declaración de variables compuesta
 Figura 5. Notificación de error sintáctico.
 
  <div style="display:flex">
-<img src="https://64.media.tumblr.com/aab6235194ab007082358ac42be9da4f/6423509ae87b139f-0d/s400x600/41193d48d1cb62d98651cc29088c53811b5dc6a6.png" width="50%" >
-<img src="https://64.media.tumblr.com/35c9fbfb7223b35ddd330ecf2ffce5c9/6423509ae87b139f-47/s500x750/d61b8d8654db3fd3b86018e0d0920e6d48084d00.png" width="50%" >
+<img src="https://64.media.tumblr.com/aab6235194ab007082358ac42be9da4f/6423509ae87b139f-0d/s400x600/41193d48d1cb62d98651cc29088c53811b5dc6a6.png" width="25%" >
+<img src="https://64.media.tumblr.com/35c9fbfb7223b35ddd330ecf2ffce5c9/6423509ae87b139f-47/s500x750/d61b8d8654db3fd3b86018e0d0920e6d48084d00.png" width="25%" >
 </div> 
 
 Fuente: Propia
@@ -101,7 +101,7 @@ Al determinar la presencia de una expresión válida en términos léxicos y sin
 Figura 6. Ejemplo de árbol de análisis del programa con anotaciones.
 
  <div style="display:flex">
-<img src="https://64.media.tumblr.com/5f6bf5b57c1d86604c34ec1bc28c8672/8aa66b18aa919f56-b4/s540x810/cf0d61e56178c66be7918c1f168966e85fa1dc46.png" width="100%" >
+<img src="https://64.media.tumblr.com/5f6bf5b57c1d86604c34ec1bc28c8672/8aa66b18aa919f56-b4/s540x810/cf0d61e56178c66be7918c1f168966e85fa1dc46.png" width="50%" >
 </div>
 
 Fuente: Alfonseca (Capítulo 5.1) Compiladores e Intérpretes
@@ -154,8 +154,8 @@ En principio, los valores al ser evaluados desde la notación postfija poseen un
 Figura 7. Notificación de error semántico.
 
  <div style="display:flex">
-<img src="https://64.media.tumblr.com/6ea4795955180a6d9a1ab13743cc3ec4/2a183850c94af93e-77/s500x750/84cd9df9275f1de823657b4f31e6021f54de753f.png" width="50%" >
-<img src="https://64.media.tumblr.com/a45ba8cadfa31d63903971c1c4d8c836/2a183850c94af93e-65/s500x750/3bc1979bd919d587e2338d754e134c95bb6ea2d6.png" width="50%" >
+<img src="https://64.media.tumblr.com/6ea4795955180a6d9a1ab13743cc3ec4/2a183850c94af93e-77/s500x750/84cd9df9275f1de823657b4f31e6021f54de753f.png" width="25%" >
+<img src="https://64.media.tumblr.com/a45ba8cadfa31d63903971c1c4d8c836/2a183850c94af93e-65/s500x750/3bc1979bd919d587e2338d754e134c95bb6ea2d6.png" width="25%" >
 </div> 
 
 Fuente: Propia
@@ -168,7 +168,7 @@ La tabla de símbolos, es una tabla encargada de almacenar cada uno de los ident
 Figura 8. Ejemplo de tabla de símbolos usando una HashTable.
 
 <div style="display:flex">
-<img src="https://64.media.tumblr.com/86b2e69a98e4faec47a07738d7087889/f166869a32cc16a1-7e/s540x810/8755f3f2df1d5d7a4d1dffb036ec52fad3efd820.png" width="100%" >
+<img src="https://64.media.tumblr.com/86b2e69a98e4faec47a07738d7087889/f166869a32cc16a1-7e/s540x810/8755f3f2df1d5d7a4d1dffb036ec52fad3efd820.png" width="50%" >
 </div> 
 
 Fuente: Propia
@@ -181,7 +181,7 @@ Para poder reproducir estructuras básicas de alto nivel como lo son condicional
 Figura 9. Ejemplo de pseudocódigo y de lista de instrucciones del mismo.
 
 <div style="display:flex">
-<img src="https://64.media.tumblr.com/07ef3f53dc76aa29a009dc05091da4c3/77c5b2ee809297c5-ad/s1280x1920/378ced0769ff7d36a1abb635113d437183253d66.png" width="100%" >
+<img src="https://64.media.tumblr.com/07ef3f53dc76aa29a009dc05091da4c3/77c5b2ee809297c5-ad/s1280x1920/378ced0769ff7d36a1abb635113d437183253d66.png" width="50%" >
 </div> 
 
 Fuente: Propia
@@ -231,7 +231,7 @@ En la Figura 10 se puede ver una instantánea en el momento de ejecución.
 Figura 10. Instantánea de ejecución.
 
 <div style="display:flex">
-<img src="https://64.media.tumblr.com/19981f5db31a4278e9851e590b7ef5d1/b8f51aeb7b731568-cc/s1280x1920/af57846f6506af71a2cddf218bfbe9555ac1df92.png" width="100%" >
+<img src="https://64.media.tumblr.com/19981f5db31a4278e9851e590b7ef5d1/b8f51aeb7b731568-cc/s1280x1920/af57846f6506af71a2cddf218bfbe9555ac1df92.png" width="50%" >
 </div>
  
 Fuente: Propia 
