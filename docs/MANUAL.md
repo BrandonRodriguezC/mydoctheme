@@ -62,7 +62,7 @@ La herramienta se limita al uso de primitivas de programación:
 `}`
 `sino`
 `{`
-` `
+`...`
 `}`
 
 ## Estructuras cíclicas
