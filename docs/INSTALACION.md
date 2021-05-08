@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Entorno técnico
-nav_order: 97
+title: Instalación
+nav_order: 6
 ---
 
 # Instalación
