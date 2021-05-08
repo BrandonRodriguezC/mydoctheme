@@ -45,7 +45,7 @@ La herramienta se limita al uso de primitivas de programación:
 `[    ] =  [    ];`
 
 ## Lectura
-` [    ] = leer( );`
+`[    ] = leer( );`
 
 ## Escritura
  `escribir([    ]);`
@@ -53,12 +53,12 @@ La herramienta se limita al uso de primitivas de programación:
 ## Estructuras condicionales
 `si ([    ])`
 `{`
-` `
+`...`
 `}`
 
 `si ([    ])`
 `{`
-` `
+`...`
 `}`
 `sino`
 `{`
@@ -68,12 +68,12 @@ La herramienta se limita al uso de primitivas de programación:
 ## Estructuras cíclicas
 `repetir ([    ]) veces`
 `{`
-` `
+`...`
 `}` 
 
 `mientras que ([    ])`
 `{`
-` `
+`...`
 `}`
 
 Por lo tanto, la complejidad de los algoritmos por los cuales se desarrolló esta propuesta son de carácter simple, sin ser extensos mayormente haciendo uso únicamente de un método principal sin invocar a secundarios (archivo principal de trabajo). 
