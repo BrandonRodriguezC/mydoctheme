@@ -34,18 +34,18 @@ Orden de historias de usuario - Sprint Goals.
 
 | Sprint  | Peso  |  ID |  Historia de Usuario |
 |---|---|---|---|
-| 1  | 3  | 1  | Como estudiante deseo generar estructuras de código para el desarrollo de algoritmos estructurados  |
-| 1  |  3 | 2  | Como estudiante deseo ingresar en los campos disponibles las expresiones aritméticas o lógicas para dar sentido al código desarrollado  |
-| 2  | 5  | 3  | Como estudiante deseo que el software me notifique los errores léxicos, sintácticos o semánticos en las expresiones para apoyar el proceso de aprendizaje  |
-| 5-6 | 8 | 4  | Como estudiante deseo ver una prueba de escritorio automática para poder evidenciar mis errores lógicos en el código  |
-| 4  | 3  | 5  | Como estudiante deseo poder ingresar mi prueba de escritorio manual para desarrollar un modelo mental de lo que ocurre con mi programa |
-| 4-5 | 12 | 6  | Como estudiante deseo ejecutar mi código paso a paso para poder evidenciar una trazabilidad de la ejecución del mismo  |
-| 3  |  1 |  7 |  Como estudiante deseo guardar mi código en un archivo para poder tenerlo disponible en cualquier momento |
-| 3  |  1 | 8  | Como estudiante deseo abrir mis codigo almacenados para poder trabajar ininterrumpidamente en ellos  |
-| 3  |  8 | 9  | Como estudiante deseo ver en consola los errores presentados en mis expresiones para denotar en detalle las posibles causas del mismo  |
-| 7  |  8 | 10  |  Como estudiante deseo ingresar datos en la consola de entrada para poder ejecutar mi código respecto a entradas dinámicas |
-| 8  | 5  | 11  |  Como estudiante deseo imprimir los resultados en consola para identificar las respuestas concretas |
-
+|1	|3	|1	|Como estudiante deseo generar y remover estructuras de pseudocódigo para el desarrollo de algoritmos estructurados |
+|1	|3	|2	|Como estudiante deseo ingresar en los campos disponibles las expresiones aritméticas o lógicas para dar sentido al pseudocódigo desarrollado |
+|2	|5	|3	|Como estudiante deseo que el software me notifique los errores léxicos, sintácticos o semánticos en las expresiones para apoyar el proceso de aprendizaje |
+|4	|12	|4	|Como estudiante deseo poder secuenciar mi codigo para luego ver los resultados basados en mi algoritmo |
+|6-7	|8	|5	|Como estudiante deseo ver una prueba de escritorio automática para poder evidenciar mis errores lógicos en el pseudocódigo |
+|4	|3	|6	|Como estudiante deseo poder ingresar mi prueba de escritorio manual para desarrollar un modelo mental de lo que ocurre con mi programa |
+|5-6	|12	|7	|Como estudiante deseo ejecutar mi pseudocódigo paso a paso para poder evidenciar una trazabilidad de la ejecución del mismo |
+|3	|1	|8	|Como estudiante deseo guardar mi pseudocódigo en un archivo para poder tenerlo disponible en cualquier momento |
+|3	|1	|9	|Como estudiante deseo abrir mis pseudocodigo almacenados para poder trabajar ininterrumpidamente en ellos |
+|3	|8	|10	|Como estudiante deseo ver en consola los errores presentados en mis expresiones para denotar en detalle las posibles causas del mismo |
+|8	|8	|11	|Como estudiante deseo ingresar datos en la consola de entrada para poder ejecutar mi pseudocódigo respecto a entradas dinámicas |
+|9	|5	|12	|Como estudiante deseo imprimir los resultados en consola para identificar las respuestas concretas |
 
 Fuente: Propia.
 
