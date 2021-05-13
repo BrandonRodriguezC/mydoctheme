@@ -68,4 +68,4 @@ Cada viernes durante el periodo estipulado se hizo una reunión de 10 minutos o 
 A manera de resumen, en la imagen a continuación se puede apreciar el [cronograma](https://github.com/BrandonRodriguezC/testdesk-documentacion/blob/main/docs/Cronograma.pdf) general del proyecto.
 
 
-![](https://64.media.tumblr.com/0d3bc3e5819f5d880b810d3f0e87063e/c6c9f42542f6004f-11/s2048x3072/9cf72dd249e5e966e2f5bcaf6b093e511a2fc799.png)
+![](https://64.media.tumblr.com/59bdba4a1d738b0b7362f01f9e80bb5c/8b0570fac20f136e-64/s2048x3072/f05be4507e212ee01c677317751a9617ef05928b.png)
