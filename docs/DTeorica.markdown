@@ -132,7 +132,7 @@ Tabla 2. Jerarquía de los operadores.
 
 | Operador | Prioridad |
 | --- | --- |
-| `|``|` | 1 |
+| `||` | 1 |
 | `&&` | 2 |
 | `== != < > <= >=` | 3 |
 | `+ -` | 4 |
