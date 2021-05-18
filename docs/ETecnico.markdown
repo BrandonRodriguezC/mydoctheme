@@ -23,7 +23,5 @@ Aqui se encuentra toda la documentación formal de la herramienta TestDesk.
     * java.util
 
 ### Sets de pruebas de ejecución
-Actualmente las pruebas más vitales para la ejecución son Condicional.td y tablas-de-multiplicar.td (revisar en [carpeta](https://github.com/BrandonRodriguezC/TestDesk/tree/main/Pruebas))
+Actualmente las pruebas más vitales para la ejecución son están en la [carpeta](https://github.com/BrandonRodriguezC/TestDesk/tree/main/Pruebas)
 
-### Cambios
-- Motor de estilos y correccion de espacios 
