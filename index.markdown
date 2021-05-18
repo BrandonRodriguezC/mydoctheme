@@ -13,7 +13,7 @@ Aqui se encuentra toda la documentación formal de la herramienta TestDesk.
 {: .fs-6 .fw-300 }
 
 [Descargar herramienta .jar](https://github.com/BrandonRodriguezC/testdesk-documentacion/blob/main/TestDesk.jar){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .bg-purple-000 }
-[Descargar herramienta .exe](https://github.com/BrandonRodriguezC/testdesk-documentacion/blob/main/TestDesk.jar){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .bg-purple-300}
+[Descargar herramienta .exe](https://github.com/BrandonRodriguezC/testdesk-documentacion/blob/main/TestDesk.exe){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .bg-purple-300}
 [Ver repositorio](https://github.com/BrandonRodriguezC/TestDesk){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -61,7 +61,4 @@ o estudiantes que apenas empiezan a programar, este software se comportara como 
 - No registra
 
 ----
-### Obteniendo ayuda
-
-Aún se encuentra en desarrollo, por tanto esta función se habilitará en un futuro
 
